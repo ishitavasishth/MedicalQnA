@@ -1,6 +1,6 @@
 # Medical Chatbot
 
-# 🧠 Medical Q&A Chatbot (No API | Local TF-IDF Powered)
+# 🧠 Medical Q&A Chatbot 
 
 This project demonstrates how to build a medical domain Q&A chatbot **without using APIs or large transformer models**. Instead, it leverages:
 
