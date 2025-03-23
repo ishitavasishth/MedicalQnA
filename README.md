@@ -31,12 +31,6 @@ This project demonstrates how to build a medical domain Q&A chatbot **without us
 
 ---
 
-## 📦 How to Run (Google Colab)
-
-1. Upload a PDF (preferably medical/research-based).
-2. Run all cells top-to-bottom.
-3. Use the **Gradio UI** to interact with the bot.
-
 ---
 
 ## 📎 Sample Questions to Ask
